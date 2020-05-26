@@ -1,0 +1,2 @@
+,42
+event,"{""POST"": {""{\""org\"":\""UTPL\"",\""course_id\"":\""EFHE-Ed7\"",\""run\"":\""2017_DIC\"",\""language\"":\""es\"",\""start_date\"":\""2017-12-11T00:00:00.000Z\"",\""end_date\"":\""2018-01-31T23:59:00.000Z\"",\""enrollment_start\"":\""2017-11-13T04:30:00.000Z\"",\""enrollment_end\"":\""2017-12-11T23:59:00.000Z\"",\""syllabus\"":null,\""short_description\"":\""El objetivo del curso es responder al compromiso adquirido por nuestro pa\u00eds ante organismos internacionales y regionales de educar a la poblaci\u00f3n como una de las acciones par  mej"
