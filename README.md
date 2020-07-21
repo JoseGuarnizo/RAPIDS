@@ -1,2 +1,2 @@
 # RAPIDS
-Documentación, desarrollo e implementación del uso de la librería RAPIDS como trabajo de titulación de Sistemas Informáticos y Computación
+Documentación, desarrollo e implementación del uso de la librería RAPIDS.
