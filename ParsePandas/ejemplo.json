@@ -1,6 +1,0 @@
-['/edx/var/log/tracking/tracking.log-20171110-1510327021.gz:{"username": "", "event_type": "edx.course.enrollment.activated", "name": "edx.course.enrollment.activated", "accept_language": "", "time": "2017-11-10T14:34:24.674569+00:00", "agent": "", "page": null, "host": "", "session": "", "referer": "", "context": {"course_id": "course-v1:UTPL+EFHE-Ed7+2017_DIC", "org_id": "UTPL"}, "ip": "", "event": {"course_id": "course-v1:UTPL+EFHE-Ed7+2017_DIC", "user_id": 258, "mode": "honor"}, "event_source": "server"}',
-
-[{'course_id': 'course-v1:UTPL+EFHE-Ed7+2017_DIC',
-        'mode': 'honor',
-        'user_id': 258},
-       '{"POST": {}, "GET": {}}',
