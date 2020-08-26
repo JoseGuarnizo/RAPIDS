@@ -57,6 +57,7 @@ Se da realce a principales funcionalidades, características y todo su conjunto 
 
 ### Información Adicional
 
-- La librería Rapids la puedes encontrar en [Página principal Rapids](https://rapids.ai/)
+- La librería Rapids la puedes encontrar aquí [Rapids](https://rapids.ai/)
+- La plataforma BlanzingSQL la puedes encontrar aquí [BlazingSQL](https://blazingsql.com/)
 
 
