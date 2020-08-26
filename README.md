@@ -1,5 +1,7 @@
 # Implementación de un Ambiente de Ciencia de Datos a través de la librería RAPIDS
 
+![Logo principal de la librería](https://github.com/JoseGuarnizo/RAPIDS/blob/master/img/rapids.PNG)
+
 ### Tabla de Contenidos
 
 - Introducción
