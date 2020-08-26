@@ -14,14 +14,14 @@ Se da realce a principales funcionalidades, características y todo su conjunto 
 
 ### Exploración del Repositorio
 
-- `Documento_General_Trabajo` - "Documentación de como instalar y utilizar toda la librería Rapids cojuntamento con un Artículo Científico"
+- `Documento_General_Trabajo` - "Documentación de como instalar y utilizar toda la librería Rapids cojuntamente con un Artículo Científico"
 - `datasets` - "Resultados de datasets que se utilizaron en el proceso de ETL, ML y Visualización"
 - `ejemplos_datascience_Rapids` - "Algunos ejemplos adicionales utilizando algunas caraterísticas de la librería Rapids con sus bibliotecas"
 - `implementación_Rapids` - "Toda la construcción e implementación de Rapids utilizando las bibliotecas para todo el proceso de Ciencia de Datos y también implementación con librerías tradicionales"
 
 ### Pruebas y Resultados con Rapids
 
-La aceleración y rapidez es parte fundamental para el proceso de ETL, ML y construcción o visualización de los datos cuando se trabaja con grandes volúmenes de información, las pruebas realizadas conforman una comparativa de aceleración de Rapids conjuntamente con la librería Pandas, Scikit-Learn y Matplotlib y destaca la aceleración que tiene Rapids con sus bibliotecas cudf, cuml y cuxfilter.
+La aceleración y rapidez es parte fundamental para el proceso de ETL, ML y construcción o visualización de los datos cuando se trabaja con grandes volúmenes de información, las pruebas realizadas conforman una comparativa de aceleración de Rapids conjuntamente con la librería Pandas, Scikit-Learn y Matplotlib, destaca la aceleración que tiene Rapids con sus bibliotecas cudf, cuml y cuxfilter.
 
 #### Proceso de Extracción, Transformación y Carga (ETL)
 
