@@ -20,6 +20,8 @@ Se da realce a principales funcionalidades, características y todo su conjunto 
 
 ### Pruebas y Resultados con Rapids
 
+La aceleración y rapidez es parte fundamental para el proceso de ETL, ML y construcción o visualización de los datos cuando se trabaja con grandes volúmenes de información, las pruebas realizadas conforman una comparativa de aceleración de Rapids conjuntamente con la librería Pandas, Scikit-Learn y Matplotlib y destaca la aceleración que tiene la librería con su biblioteca cudf, cuml y cuxfilter utilizando los benefícios de la GPU.
+
 #### Proceso de Extracción, Transformación y Carga (ETL)
 
 | Librería | Fase | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
