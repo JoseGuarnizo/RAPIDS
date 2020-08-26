@@ -2,9 +2,9 @@
 
 ### Tabla de Contenidos
 
-Introducción
-Exploración del Repositorio
-Puebas y Resultados con Rapids
+- Introducción
+- Exploración del Repositorio
+- Puebas y Resultados con Rapids
 
 
 ### Introducción
