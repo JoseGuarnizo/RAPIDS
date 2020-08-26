@@ -12,9 +12,11 @@ Se da realce a principales funcionalidades, características y todo su conjunto 
 
 ### Exploración del Repositorio
 
-- `tu linea de codigo`
-
-
+- `Documento_General_Trabajo` - "Dcoumentación de como instalar y utilizar toda la librerpia Rapids cojuntamento con un Artículo Científico"
+- `Reportes` - "Presentaciones de Rapids, enfocando los puntos pirncipales de la librería"
+- `datasets` - "Resultados de datasets que se utilizaron en el proceso de ETL, ML y Visualización"
+- `ejemplos_datascience_Rapids` - "Algunos ejemplos adicionales utilizando algunas caraterísticas de la librería Rapids con sus bibliotecas"
+- `implmentación_Rapids` - "Toda la construcción e implementación de Rapids utilizando las bibliotecas para todo el proceso de Ciencia de Datos y también implementación con librerías tradicionales"
 
 ### Pruebas y Resultados con Rapids
 
