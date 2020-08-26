@@ -17,7 +17,7 @@ Se da realce a principales funcionalidades, características y todo su conjunto 
 - `Documento_General_Trabajo` - "Documentación de como instalar y utilizar toda la librería Rapids cojuntamente con un Artículo Científico"
 - `datasets` - "Resultados de datasets que se utilizaron en el proceso de ETL, ML y Visualización"
 - `ejemplos_datascience_Rapids` - "Algunos ejemplos adicionales utilizando algunas caraterísticas de la librería Rapids con sus bibliotecas"
-- `imagenes` - "Captura de la imagenes de la instalación de la librería Rapids localmente y plataformas cloud"
+- `imagenes` - "Captura de imagenes de instalación de la librería Rapids localmente y plataformas cloud"
 - `implementación_Rapids` - "Toda la construcción e implementación de Rapids utilizando las bibliotecas para todo el proceso de Ciencia de Datos y también implementación con librerías tradicionales"
 
 ### Pruebas y Resultados con Rapids
