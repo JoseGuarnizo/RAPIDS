@@ -23,7 +23,7 @@ Se da realce a principales funcionalidades, características y todo su conjunto 
 #### Proceso de Machine Learning
 
 | Librería | Fase | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
-| --- | --- | --- | --- | --- |
+| --- | --- | :---: | --- | --- |
 | Rapids (cuml) | Preprocesamiento | 0.13 s | 157.493 | 41.6 MB |
 | Scikit-learn | Preprocesamiento | 0.14 s | 157.493 | 41.6 MB |
 
