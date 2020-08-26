@@ -55,4 +55,8 @@ Se da realce a principales funcionalidades, características y todo su conjunto 
 | Matplotlib | Líneas | 3.38 s  | 157.493 | 41.6 MB |
 
 
+### Información Adicional
+
+- La librería Rapids la puedes encontrar en [Página principal Rapids](https://rapids.ai/)
+
 
