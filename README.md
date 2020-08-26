@@ -18,20 +18,37 @@ Se da realce a principales funcionalidades, características y todo su conjunto 
 
 #### Proceso de Extracción, Transformación y Carga (ETL)
 
-
+| Librería | Fase | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
+| --- | --- | :---: | :---: | :---: |
+| Rapids (cudf) | Extracción | 0.70 s | 200.000 | 252 MB |
+| Rapids (cudf) | Transformación | 7.24 s | 200.000 | 252 MB |
+| Rapids (cudf) | Carga | 0.51 s | 200.000 | 252 MB |
+| Pandas | Extracción | 3.17 s | 200.000 | 252 MB |
+| Pandas | Transformación | 8.14 s | 200.000 | 252 MB |
+| Pandas | Carga | 2.10 s | 200.000 | 252 MB |
 
 #### Proceso de Machine Learning
 
 | Librería | Fase | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
-| --- | --- | :---: | --- | --- |
+| --- | --- | :---: | :---: | :---: |
 | Rapids (cuml) | Preprocesamiento | 0.13 s | 157.493 | 41.6 MB |
 | Scikit-learn | Preprocesamiento | 0.14 s | 157.493 | 41.6 MB |
 
-| Librería | Algoritmo ML | Tiempo Aceleración (segundos) | Número de Datos |
-| --- | --- | --- | --- |
-| Rapids (cuml) | Regresión Lineal | 0.009 s  | 157.493 |
-| Rapids (cuml) | Regresión Logística | 16.42 s | 157.493  |
-| Scikit-learn | Regresión Lineal | 0.018 s | 157.493 |
-| Scikit-learn | Regresión Logística | 484.30 s | 157.493 |
+| Librería | Algoritmo ML | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
+| --- | --- | :---: | :---: | :---: |
+| Rapids (cuml) | Regresión Lineal | 0.009 s  | 157.493 | 41.6 MB |
+| Rapids (cuml) | Regresión Logística | 16.42 s | 157.493  | 41.6 MB |
+| Scikit-learn | Regresión Lineal | 0.018 s | 157.493 | 41.6 MB |
+| Scikit-learn | Regresión Logística | 484.30 s | 157.493 | 41.6 MB |
 
 #### Proceso de Visualización
+
+| Librería | Tipo Gráfico Estadístico | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
+| --- | --- | :---: | :---: | :---: |
+| Rapids (cuxfilter) | Barras | 4.25 s  | 157.493 | 41.6 MB |
+| Rapids (cuxfilter) | Líneas | 0.38 s  | 157.493 | 41.6 MB |
+| Matplotlib | Barras | 191.22 s  | 157.493 | 41.6 MB |
+| Matplotlib | Líneas | 3.38 s  | 157.493 | 41.6 MB |
+
+
+
