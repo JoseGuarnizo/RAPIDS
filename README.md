@@ -38,7 +38,7 @@ La aceleración y rapidez es parte fundamental para el proceso de ETL, ML y cons
 #### Proceso de Machine Learning (ML)
 
 | Librería | Fase | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
-| --- | --- | :---: | :---: | :---: | :---: |
+| --- | --- | :---: | :---: | :---: |
 | Rapids (cuml) | Preprocesamiento | 0.13 s | 157.493 | 41.6 MB |
 | Scikit-learn | Preprocesamiento | 0.14 s | 157.493 | 41.6 MB |
 
