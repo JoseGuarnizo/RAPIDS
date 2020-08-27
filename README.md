@@ -42,12 +42,12 @@ La aceleración y rapidez es parte fundamental para el proceso de ETL, ML y cons
 | Rapids (cuml) | Preprocesamiento | 0.13 s | 157.493 | 41.6 MB |
 | Scikit-learn | Preprocesamiento | 0.14 s | 157.493 | 41.6 MB |
 
-| Librería | Algoritmo ML | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
+| Librería | Algoritmo ML | Tiempo Aceleración (segundos)| Tamaño Archivo |
 | --- | --- | :---: | :---: | :---: |
-| Rapids (cuml) | Regresión Lineal | 0.009 s  | 157.493 | 41.6 MB |
-| Rapids (cuml) | Regresión Logística | 16.42 s | 157.493  | 41.6 MB |
-| Scikit-learn | Regresión Lineal | 0.018 s | 157.493 | 41.6 MB |
-| Scikit-learn | Regresión Logística | 484.30 s | 157.493 | 41.6 MB |
+| Rapids (cuml) | Regresión Lineal | 0.009 s  | 41.6 MB |
+| Rapids (cuml) | Regresión Logística | 16.42 s | 41.6 MB |
+| Scikit-learn | Regresión Lineal | 0.018 s | 41.6 MB |
+| Scikit-learn | Regresión Logística | 484.30 s | 41.6 MB |
 
 #### Proceso de Visualización
 
