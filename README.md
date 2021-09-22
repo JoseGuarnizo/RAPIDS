@@ -63,5 +63,6 @@ En base a los escenarios propuestos comparando los tiempos de aceleración de RA
 
 - La librería Rapids la puedes encontrar aquí [Rapids](https://rapids.ai/)
 - La plataforma BlanzingSQL la puedes encontrar aquí [BlazingSQL](https://blazingsql.com/)
+- Grupos de apoyo para trabajar con RAPIDS: [Google](https://groups.google.com/g/rapidsai?pli=1), [Twitter](https://twitter.com/rapidsai), [Slack](https://rapids-goai.slack.com/ssb/redirect#/), [StackOverflow](https://stackoverflow.com/tags/rapids)
 
 
