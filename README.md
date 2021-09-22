@@ -35,7 +35,7 @@ En base a los escenarios propuestos comparando los tiempos de aceleración de RA
 | Pandas | Transformación | 8.14 s | 200.000 | 252 MB |
 | Pandas | Carga | 2.10 s | 200.000 | 252 MB |
 
-#### Proceso de Machine Learning (ML)
+#### Proceso Machine Learning (ML)
 
 | Librería | Fase | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
 | --- | --- | :---: | :---: | :---: |
