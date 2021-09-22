@@ -28,24 +28,24 @@ En base a los escenarios propuestos comparando los tiempos de aceleración de RA
 
 | Librería | Fase | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
 | --- | --- | :---: | :---: | :---: |
-| Rapids (cudf) | Extracción | 0.70 s | 200.000 | 252 MB |
-| Rapids (cudf) | Transformación | 7.24 s | 200.000 | 252 MB |
-| Rapids (cudf) | Carga | 0.51 s | 200.000 | 252 MB |
+| RAPIDS (cudf) | Extracción | 0.70 s | 200.000 | 252 MB |
+| RAPIDS (cudf) | Transformación | 7.24 s | 200.000 | 252 MB |
+| RAPIDS (cudf) | Carga | 0.51 s | 200.000 | 252 MB |
 | Pandas | Extracción | 3.17 s | 200.000 | 252 MB |
 | Pandas | Transformación | 8.14 s | 200.000 | 252 MB |
 | Pandas | Carga | 2.10 s | 200.000 | 252 MB |
 
-#### Proceso de Machine Learning (ML)
+#### Proceso Machine Learning (ML)
 
 | Librería | Fase | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
 | --- | --- | :---: | :---: | :---: |
-| Rapids (cuml) | Preprocesamiento | 0.13 s | 196.867 | 41.6 MB |
+| RAPIDS (cuml) | Preprocesamiento | 0.13 s | 196.867 | 41.6 MB |
 | Scikit-learn | Preprocesamiento | 0.14 s | 196.867 | 41.6 MB |
 
 | Librería | Algoritmo ML | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
 | --- | --- | :---: | :---: | :---: |
-| Rapids (cuml) | Regresión Lineal | 0.009 s  | 196.867 | 41.6 MB |
-| Rapids (cuml) | Regresión Logística | 16.42 s | 196.867 | 41.6 MB |
+| RAPIDS (cuml) | Regresión Lineal | 0.009 s  | 196.867 | 41.6 MB |
+| RAPIDS (cuml) | Regresión Logística | 16.42 s | 196.867 | 41.6 MB |
 | Scikit-learn | Regresión Lineal | 0.01 s | 196.867 | 41.6 MB |
 | Scikit-learn | Regresión Logística | 484.30 s | 196.867 | 41.6 MB |
 
@@ -53,15 +53,19 @@ En base a los escenarios propuestos comparando los tiempos de aceleración de RA
 
 | Librería | Tipo Gráfico Estadístico | Tiempo Aceleración (segundos) | Número de Datos | Tamaño Archivo |
 | --- | --- | :---: | :---: | :---: |
-| Rapids (cuxfilter) | Barras | 4.25 s  | 196.867 | 41.6 MB |
-| Rapids (cuxfilter) | Líneas | 0.38 s  | 196.867 | 41.6 MB |
+| RAPIDS (cuxfilter) | Barras | 4.25 s  | 196.867 | 41.6 MB |
+| RAPIDS (cuxfilter) | Líneas | 0.38 s  | 196.867 | 41.6 MB |
 | Matplotlib | Barras | 191.22 s  | 196.867 | 41.6 MB |
 | Matplotlib | Líneas | 3.38 s  | 196.867 | 41.6 MB |
 
 
 ### Información Adicional
 
-- La librería Rapids la puedes encontrar aquí [Rapids](https://rapids.ai/)
+- La librería RAPIDS la puedes encontrar aquí [RAPIDS](https://rapids.ai/)
 - La plataforma BlanzingSQL la puedes encontrar aquí [BlazingSQL](https://blazingsql.com/)
+- Documentación [cuDF](https://docs.rapids.ai/api/cudf/stable/)
+- Documentación [cuML](https://docs.rapids.ai/api/cuml/stable/)
+- Documentación [Cuxfilter](https://docs.rapids.ai/api/cuxfilter/stable/)
+- Grupos de apoyo para trabajar con RAPIDS: [Google](https://groups.google.com/g/rapidsai?pli=1), [Twitter](https://twitter.com/rapidsai), [Slack](https://rapids-goai.slack.com/ssb/redirect#/), [StackOverflow](https://stackoverflow.com/tags/rapids)
 
 
