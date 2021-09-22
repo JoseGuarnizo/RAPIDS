@@ -6,7 +6,7 @@
 
 - Introducción
 - Exploración del Repositorio
-- Puebas y Resultados con Rapids
+- Puebas y Resultados con RAPIDS
 
 
 ### Introducción
@@ -20,7 +20,7 @@ Se da realce a principales funcionalidades, características y todo su conjunto 
 - `imagenes` - "Captura de imagenes de instalación de la librería RAPIDS localmente y plataformas cloud"
 - `implementación_RAPIDS` - "Toda la construcción e implementación de RAPIDS utilizando las bibliotecas para todo el proceso de Ciencia de Datos y también implementación con librerías tradicionales"
 
-### Pruebas y Resultados con Rapids
+### Pruebas y Resultados con RAPIDS
 
 En base a los escenarios propuestos comparando los tiempos de aceleración de RAPIDS juntamente con las librerías tradicionales para ciencia de datos tanto en los procesos ETL, machine learning y visualización (representación de los datos en forma gráfica) destaca RAPIDS, acelera el flujo de extremo a extremo y cumple su principal objetivo de trabajar de forma acelerada utilizando las características de las GPUs de NVIDIA (GPU Tesla T4), esto da un realce significativo para utilizar la librería RAPIDS cuando se va a trabajar con grandes volúmenes de información.
 
